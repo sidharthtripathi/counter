@@ -1,0 +1,26 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+#container{
+  margin-top: 40vh;
+  text-align: center;
+}
+
+#counter{
+  color: #102A42;
+  font-size: 60px;
+}
+#value{
+  font-size: 80px;
+  transition: 0.5s;
+}
+
+button{
+  cursor: pointer;
+  border-style: none;
+  font-size: 18px;
+  padding:5px 10px 5px 10px;
+  margin-left: 5px;
+  border-radius: 5px;
+}
